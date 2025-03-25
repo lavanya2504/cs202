@@ -1,0 +1,300 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.20, pytest-8.3.5, pluggy-1.5.0
+rootdir: /mnt/c/users/lavanya/documents/stt/Lab 6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 0 items / 29 errors
+
+==================================== ERRORS ====================================
+_____________________ ERROR collecting tests/test_array.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_array.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_array.py:1: in <module>
+    from algorithms.arrays import (
+E   ModuleNotFoundError: No module named 'algorithms'
+___________________ ERROR collecting tests/test_automata.py ____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_automata.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_automata.py:1: in <module>
+    from algorithms.automata import DFA
+E   ModuleNotFoundError: No module named 'algorithms'
+___________________ ERROR collecting tests/test_backtrack.py ___________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_backtrack.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_backtrack.py:1: in <module>
+    from algorithms.backtrack import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_bfs.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_bfs.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_bfs.py:1: in <module>
+    from algorithms.bfs import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_bit.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_bit.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_bit.py:1: in <module>
+    from algorithms.bit import (
+E   ModuleNotFoundError: No module named 'algorithms'
+__________________ ERROR collecting tests/test_compression.py __________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_compression.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_compression.py:1: in <module>
+    from algorithms.compression.huffman_coding import HuffmanCoding
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_dfs.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_dfs.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_dfs.py:1: in <module>
+    from algorithms.dfs import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_dp.py _______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_dp.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_dp.py:1: in <module>
+    from algorithms.dp import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_graph.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_graph.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_graph.py:1: in <module>
+    from algorithms.graph import Tarjan
+E   ModuleNotFoundError: No module named 'algorithms'
+____________________ ERROR collecting tests/test_greedy.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_greedy.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_greedy.py:1: in <module>
+    from algorithms.greedy import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_heap.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_heap.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_heap.py:1: in <module>
+    from algorithms.heap import (
+E   ModuleNotFoundError: No module named 'algorithms'
+___________________ ERROR collecting tests/test_histogram.py ___________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_histogram.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_histogram.py:1: in <module>
+    from algorithms.distribution.histogram import get_histogram
+E   ModuleNotFoundError: No module named 'algorithms'
+____________ ERROR collecting tests/test_iterative_segment_tree.py _____________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_iterative_segment_tree.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_iterative_segment_tree.py:1: in <module>
+    from algorithms.tree.segment_tree.iterative_segment_tree import SegmentTree
+E   ModuleNotFoundError: No module named 'algorithms'
+__________________ ERROR collecting tests/test_linkedlist.py ___________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_linkedlist.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_linkedlist.py:3: in <module>
+    from algorithms.linkedlist import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_map.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_map.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_map.py:1: in <module>
+    from algorithms.map import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_maths.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_maths.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_maths.py:1: in <module>
+    from algorithms.maths import (
+E   ModuleNotFoundError: No module named 'algorithms'
+____________________ ERROR collecting tests/test_matrix.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_matrix.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_matrix.py:1: in <module>
+    from algorithms.matrix import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_ml.py _______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_ml.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_ml.py:1: in <module>
+    from algorithms.ml.nearest_neighbor import (
+E   ModuleNotFoundError: No module named 'algorithms'
+___________________ ERROR collecting tests/test_monomial.py ____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_monomial.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_monomial.py:1: in <module>
+    from algorithms.maths.polynomial import Monomial
+E   ModuleNotFoundError: No module named 'algorithms'
+__________________ ERROR collecting tests/test_polynomial.py ___________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_polynomial.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_polynomial.py:1: in <module>
+    from algorithms.maths.polynomial import (
+E   ModuleNotFoundError: No module named 'algorithms'
+____________________ ERROR collecting tests/test_queues.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_queues.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_queues.py:3: in <module>
+    from algorithms.queues import (
+E   ModuleNotFoundError: No module named 'algorithms'
+____________________ ERROR collecting tests/test_search.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_search.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_search.py:1: in <module>
+    from algorithms.search import (
+E   ModuleNotFoundError: No module named 'algorithms'
+______________________ ERROR collecting tests/test_set.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_set.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_set.py:1: in <module>
+    from algorithms.set import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_sort.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_sort.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_sort.py:1: in <module>
+    from algorithms.sort import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_stack.py _____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_stack.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_stack.py:1: in <module>
+    from algorithms.stack import (
+E   ModuleNotFoundError: No module named 'algorithms'
+___________________ ERROR collecting tests/test_streaming.py ___________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_streaming.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_streaming.py:1: in <module>
+    from algorithms.streaming.misra_gries import (
+E   ModuleNotFoundError: No module named 'algorithms'
+____________________ ERROR collecting tests/test_strings.py ____________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_strings.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_strings.py:1: in <module>
+    from algorithms.strings import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_tree.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_tree.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_tree.py:1: in <module>
+    from algorithms.tree.traversal import (
+E   ModuleNotFoundError: No module named 'algorithms'
+_____________________ ERROR collecting tests/test_unix.py ______________________
+ImportError while importing test module '/mnt/c/users/lavanya/documents/stt/Lab 6/algorithms/tests/test_unix.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.8/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+tests/test_unix.py:1: in <module>
+    from algorithms.unix import (
+E   ModuleNotFoundError: No module named 'algorithms'
+=========================== short test summary info ============================
+ERROR tests/test_array.py
+ERROR tests/test_automata.py
+ERROR tests/test_backtrack.py
+ERROR tests/test_bfs.py
+ERROR tests/test_bit.py
+ERROR tests/test_compression.py
+ERROR tests/test_dfs.py
+ERROR tests/test_dp.py
+ERROR tests/test_graph.py
+ERROR tests/test_greedy.py
+ERROR tests/test_heap.py
+ERROR tests/test_histogram.py
+ERROR tests/test_iterative_segment_tree.py
+ERROR tests/test_linkedlist.py
+ERROR tests/test_map.py
+ERROR tests/test_maths.py
+ERROR tests/test_matrix.py
+ERROR tests/test_ml.py
+ERROR tests/test_monomial.py
+ERROR tests/test_polynomial.py
+ERROR tests/test_queues.py
+ERROR tests/test_search.py
+ERROR tests/test_set.py
+ERROR tests/test_sort.py
+ERROR tests/test_stack.py
+ERROR tests/test_streaming.py
+ERROR tests/test_strings.py
+ERROR tests/test_tree.py
+ERROR tests/test_unix.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 29 errors during collection !!!!!!!!!!!!!!!!!!!
+============================== 29 errors in 7.99s ==============================

@@ -1,0 +1,4 @@
+repo_name, repo_url
+boto,https://github.com/boto/boto
+scrapy,https://github.com/scrapy/scrapy
+activitywatch,https://github.com/ActivityWatch/activitywatch
