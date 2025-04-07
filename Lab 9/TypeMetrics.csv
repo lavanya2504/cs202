@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM
+.,com.iluwatar.saga.orchestration,ChapterResult,5.0,4.0,3.0,3.0,0.8333333333333334,0.75
+.,com.iluwatar.saga.orchestration,FlyBookingService,0.0,0.0,1.0,1.0,0.0,0.0
+.,com.iluwatar.saga.orchestration,HotelBookingService,1.0,0.0,2.0,1.0,0.0,0.0
+.,com.iluwatar.saga.orchestration,OrchestrationChapter,3.0,0.0,3.0,3.0,0.0,-1.0
+.,com.iluwatar.saga.orchestration,OrderService,0.0,0.0,1.0,1.0,0.0,0.0
+.,com.iluwatar.saga.orchestration,Saga,4.0,0.0,2.0,2.0,0.625,0.4
+.,com.iluwatar.saga.orchestration,Chapter,0.0,0.0,1.0,1.0,0.0,-1.0
+.,com.iluwatar.saga.orchestration,SagaApplication,3.0,0.0,3.0,1.0,0.0,0.0
+.,com.iluwatar.saga.orchestration,SagaOrchestrator,16.0,0.0,1.0,1.0,0.725,0.0
+.,com.iluwatar.saga.orchestration,CurrentState,6.0,0.0,1.0,1.0,0.4166666666666667,0.0
+.,com.iluwatar.saga.orchestration,Service,3.0,0.0,3.0,1.0,0.5,0.0
+.,com.iluwatar.saga.orchestration,ServiceDiscoveryService,0.0,0.0,1.0,1.0,-0.0,0.0
+.,com.iluwatar.saga.orchestration,WithdrawMoneyService,1.0,0.0,2.0,1.0,0.0,0.0

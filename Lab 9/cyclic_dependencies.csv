@@ -1,0 +1,30 @@
+Cycle Number,Cycle Path
+1,httpie.manager.tasks
+2,requests
+3,rich
+4,urllib3
+5,pygments
+6,pygments.formatters
+7,pygments.lexers
+8,pygments.styles
+9,rich.table
+10,httpie.__main__ -> httpie.core -> httpie.internal.update_warnings -> httpie.internal.daemons
+11,httpie.__main__ -> httpie.core -> httpie.internal.daemon_runner -> httpie.internal.update_warnings -> httpie.internal.daemons
+12,httpie.core -> httpie.internal.update_warnings -> httpie.internal.daemons
+13,httpie.core -> httpie.internal.daemon_runner -> httpie.internal.update_warnings -> httpie.internal.daemons
+14,httpie.cli.options -> httpie.cli.argparser -> httpie.output.ui.rich_help
+15,httpie.legacy.v3_1_0_session_cookie_format -> httpie.sessions
+16,httpie.cli.argtypes -> httpie.sessions
+17,httpie.sessions -> httpie.legacy.v3_2_0_session_header_format
+18,pygments.lexer -> pygments
+19,requests -> requests.utils
+20,rich.style -> rich -> rich.console -> rich.theme
+21,rich.style -> rich -> rich.console -> rich.text
+22,rich.style -> rich -> rich.console
+23,rich.style -> rich -> rich.console -> rich.highlighter -> rich.text
+24,rich.text -> rich.console
+25,rich.text -> rich.console -> rich.highlighter
+26,rich.text -> rich -> rich.console
+27,rich.text -> rich -> rich.console -> rich.highlighter
+28,rich -> rich.console
+29,rich.highlighter -> rich.console
