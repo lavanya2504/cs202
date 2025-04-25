@@ -1,0 +1,14 @@
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.AssemblyInfo.cs
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\bin\Debug\net8.0\AlarmConsoleApp1.exe
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\bin\Debug\net8.0\AlarmConsoleApp1.deps.json
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\bin\Debug\net8.0\AlarmConsoleApp1.runtimeconfig.json
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\bin\Debug\net8.0\AlarmConsoleApp1.dll
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\bin\Debug\net8.0\AlarmConsoleApp1.pdb
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.dll
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\refint\AlarmConsoleApp1.dll
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.pdb
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\AlarmConsoleApp1.genruntimeconfig.cache
+C:\Users\Lavanya\Documents\STT\Lab12\AlarmConsoleApp1\obj\Debug\net8.0\ref\AlarmConsoleApp1.dll
